@@ -11,6 +11,9 @@ google-generativeai>=0.8.0
 google-api-python-client>=2.176.0
 google-auth>=2.40.3
 
+# Web Framework for Chatbot UI
+streamlit>=1.28.0
+
 # Environment and configuration
 python-dotenv>=1.1.1
 
