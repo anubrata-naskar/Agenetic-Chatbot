@@ -1,0 +1,38 @@
+{
+  "chat_20250805_073105": {
+    "messages": [
+      {
+        "role": "user",
+        "content": "hi"
+      },
+      {
+        "role": "assistant",
+        "content": "Hi there! How can I help you today?"
+      },
+      {
+        "role": "user",
+        "content": "can you tell me what is maximum tenure in president of india post of a single individual"
+      },
+      {
+        "role": "assistant",
+        "content": "The maximum tenure for the President of India for a single individual is **two consecutive terms**.  However,  it's important to note that this is not explicitly stated as a limit in the constitution.  While there's no constitutional bar against a person being elected more than twice, the convention established since independence has been that no president serves more than two terms."
+      }
+    ],
+    "timestamp": "2025-08-05T07:32:48.082235",
+    "title": "hi"
+  },
+  "chat_20250805_073355": {
+    "messages": [
+      {
+        "role": "user",
+        "content": "who are the presidents of india those serve more than one term"
+      },
+      {
+        "role": "assistant",
+        "content": "Only one President of India has served more than one term: **Sarvepalli Radhakrishnan**.  He served two terms from 1952 to 1962."
+      }
+    ],
+    "timestamp": "2025-08-05T07:34:23.265586",
+    "title": "who are the presidents of india those serve more t..."
+  }
+}
