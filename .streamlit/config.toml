@@ -1,8 +1,9 @@
 # Streamlit configuration file
 # This file customizes the appearance and behavior of your Streamlit app
 
+
 [theme]
-# Color theme - you can change these to customize the look
+#Color theme - you can change these to customize the look
 primaryColor = "#FF6B6B"
 backgroundColor = "#FFFFFF" 
 secondaryBackgroundColor = "#F0F2F6"
