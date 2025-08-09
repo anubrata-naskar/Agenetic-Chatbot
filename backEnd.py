@@ -20,7 +20,7 @@ chat_model = ChatGoogleGenerativeAI(
 )
 
 def chat_node(state: ChatState) -> ChatState:
-    messages = state['messages'] if state['messages'] else [HumanMessage(content="Hello!")]
+    messages = state['messages']
 
     ai_response = chat_model.invoke(messages)
 
